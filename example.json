@@ -1,0 +1,46 @@
+{
+  "metadata": {
+    "name" : "some name",
+    "job": "some job",
+    "data" : "some data"
+  },
+  
+  "fighters" : [
+    {
+      "name" : "BJ Penn",
+      "record" : {
+        "wins" : 16,
+        "draws" : 14,
+        "loses" : 2
+      },
+      "defenses" : 3
+    },
+    {
+      "name" : "Stipe Miocic",
+      "record" : {
+        "wins" : 20,
+        "draws" : 4,
+        "loses" : 0
+      },
+      "defenses" : 4
+    },
+    {
+      "name" : "Jon Jones",
+      "record" : {
+        "wins" : 27,
+        "draws" : 1,
+        "loses" : 0
+      },
+      "defenses" : 11
+    },
+    {
+      "name" : "Anderson Silva",
+      "record" : {
+        "wins" : 34,
+        "draws" : 11,
+        "loses" : 0
+      },
+      "defenses" : 10
+    }
+  ]
+}
